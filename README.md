@@ -2,6 +2,8 @@
 
 Tool to help you check Proxy http/sock is alive.
 
+> DOWNLOAD : [Releases](https://github.com/s0ckd3/check-proxy-live/releases)
+
 ## How to use:
 1. Select the number of check threads (Min 10 - Max 1000)
 2. Select time out
@@ -35,4 +37,6 @@ Export results to file .txt format.
 103.92.26.***:***|||VN|LIVE|http
 103.98.151.***:***|||VN|LIVE|http
 ```
+
+
 Việt Nam: [https://guidevn.com/bai-viet/cong-cu-check-proxy-live-tien-loi-va-nhanh-chong](https://guidevn.com/bai-viet/cong-cu-check-proxy-live-tien-loi-va-nhanh-chong)
