@@ -6,7 +6,7 @@ Tool to help you check Proxy http/sock is alive.
 > Video : [View Video](https://www.youtube.com/watch?v=FYD8fER2dlY)
 ## How to use:
 1. Select the number of check threads (Min 10 - Max 1000)
-2. Select time out
+2. Select time out (*Let time = 5 if you need a really good proxy and stable speed*)
 3. Select check format (http/socks5)
 4. Select server check (5 server)
 5. Click start and select the folder containing the .txt proxy file
@@ -31,11 +31,16 @@ host:port:user:pass
 Export results to file .txt format.
 
 - Type: host:ip:user:pass|geo|status|type-proxy
-- Type2: host:ip:user:pass
 ```
 103.125.190.***:***|||GEO|LIVE|http
 103.92.26.***:***|||VN|LIVE|http
 103.98.151.***:***|||VN|LIVE|http
+```
+- Type2: host:ip:user:pass
+```
+103.125.190.***:***
+103.92.26.***:***
+103.98.151.***:***
 ```
 
 
