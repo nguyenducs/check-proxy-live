@@ -3,7 +3,7 @@
 Tool to help you check Proxy http/sock is alive.
 
 > DOWNLOAD : [Releases](https://github.com/s0ckd3/check-proxy-live/releases)
-
+> Video : [View Video](https://www.youtube.com/watch?v=FYD8fER2dlY)
 ## How to use:
 1. Select the number of check threads (Min 10 - Max 1000)
 2. Select time out
